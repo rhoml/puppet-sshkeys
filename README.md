@@ -1,4 +1,4 @@
-puppet-sshkeys
-==============
+puppet-deploykeys
+=================
 
-Puppet module to manage SSH public keys on a team.
+Deploy keys module for Wuaki.tv
